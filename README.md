@@ -2,6 +2,7 @@
 
 Предусловия
 Тестовый стенд: https://{id}.serverhub.praktikum-services.ru/
+
 Документация API: https://{id}.serverhub.praktikum-services.ru/docs/
 
 Работа с наборами: возможность добавлять продукты в набор — ручка POST /api/v1/kits/{id}/products.
